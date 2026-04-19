@@ -1,8 +1,7 @@
 .venv/
-env/
-venv/
-
+__pycache__/
 .env
+.python-version
 
 __pycache__/
 *.pyc
